@@ -1,5 +1,5 @@
 # hello-maven-plugin
-使用classgraph开发maven静态扫描插件
+使用classgraph开发maven静态扫描spring mvc controller插件
 
 ```xml
 <plugin>
